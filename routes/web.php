@@ -14,8 +14,8 @@ Route::get('/', function () {
 Route::get('/login', [LoginController::class, 'showLoginForm'])->name('login')->middleware('guest');
 Route::post('/login', [LoginController::class, 'login'])->middleware('guest');
 Route::post('/logout', [LoginController::class, 'logout'])->name('logout')->middleware('auth');
-Route::get('/register', [RegisterController::class, 'showRegistrationForm'])->name('register')->middleware('guest');
-Route::post('/register', [RegisterController::class, 'register'])->middleware('guest');
+// Route::get('/register', [RegisterController::class, 'showRegistrationForm'])->name('register')->middleware('guest');
+// Route::post('/register', [RegisterController::class, 'register'])->middleware('guest');
 
 // File Routes (Protected)
 Route::middleware('auth')->prefix('files')->name('files.')->group(function () {

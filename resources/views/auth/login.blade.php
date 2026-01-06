@@ -74,14 +74,14 @@
                     </button>
                 </form>
 
-                <div class="text-center mt-4">
+                {{-- <div class="text-center mt-4">
                     <p class="text-muted mb-0">
                         Don't have an account? 
                         <a href="{{ route('register') }}" class="text-decoration-none fw-semibold" style="color: var(--primary-color);">
                             Sign up
                         </a>
                     </p>
-                </div>
+                </div> --}}
             </div>
         </div>
     </div>
