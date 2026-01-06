@@ -5,6 +5,14 @@
   <img src="https://img.shields.io/badge/PHP-8.2+-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Bootstrap-5.3-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/github/license/abdelmoneimbelal/File-Management-System?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/github/stars/abdelmoneimbelal/File-Management-System?style=for-the-badge" alt="Stars">
+</p>
+
+<p align="center">
+  <a href="https://github.com/abdelmoneimbelal/File-Management-System">View Demo</a> •
+  <a href="https://github.com/abdelmoneimbelal/File-Management-System/issues">Report Bug</a> •
+  <a href="https://github.com/abdelmoneimbelal/File-Management-System/issues">Request Feature</a>
 </p>
 
 A modern, secure, and feature-rich file management system built with Laravel. Upload, manage, preview, and share files with unique download links, all wrapped in a beautiful Bootstrap 5 interface.
@@ -59,8 +67,8 @@ A modern, secure, and feature-rich file management system built with Laravel. Up
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
-   cd nanotrition-form
+   git clone https://github.com/abdelmoneimbelal/File-Management-System.git
+   cd File-Management-System
    ```
 
 2. **Install PHP dependencies**
@@ -263,18 +271,38 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
+## 🔗 Links
+
+- **GitHub Repository**: [https://github.com/abdelmoneimbelal/File-Management-System](https://github.com/abdelmoneimbelal/File-Management-System)
+- **Report Issues**: [GitHub Issues](https://github.com/abdelmoneimbelal/File-Management-System/issues)
+
 ## 👨‍💻 Author
 
-Built with ❤️ using Laravel
+**Abdelmoneim Belal**
+
+- GitHub: [@abdelmoneimbelal](https://github.com/abdelmoneimbelal)
+- Repository: [File-Management-System](https://github.com/abdelmoneimbelal/File-Management-System)
 
 ## 🙏 Acknowledgments
 
-- Laravel Framework
-- Bootstrap Team
-- SweetAlert2
-- Bootstrap Icons
+- [Laravel Framework](https://laravel.com)
+- [Bootstrap Team](https://getbootstrap.com)
+- [SweetAlert2](https://sweetalert2.github.io)
+- [Bootstrap Icons](https://icons.getbootstrap.com)
 - All contributors
+
+## 📞 Support
+
+If you have any questions or need help, please:
+- Open an [issue](https://github.com/abdelmoneimbelal/File-Management-System/issues)
+- Check the [documentation](https://github.com/abdelmoneimbelal/File-Management-System#readme)
+
+## ⭐ Show your support
+
+Give a ⭐️ if this project helped you!
 
 ---
 
-<p align="center">Made with ❤️ and Laravel</p>
+<p align="center">
+  Made with ❤️ and Laravel by <a href="https://github.com/abdelmoneimbelal">Abdelmoneim Belal</a>
+</p>
