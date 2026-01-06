@@ -128,16 +128,18 @@
                             </form>
                         </li>
                     @else
+                    {{-- @if(!Route::has('login'))
                         <li class="nav-item me-2">
                             <a href="{{ route('login') }}" class="btn btn-outline-primary btn-sm">
                                 <i class="bi bi-box-arrow-in-right me-1"></i>Login
                             </a>
                         </li>
-                        {{-- <li class="nav-item">
+                        <li class="nav-item">
                             <a href="{{ route('register') }}" class="btn btn-primary-modern btn-sm">
                                 <i class="bi bi-person-plus me-1"></i>Register
                             </a>
-                        </li> --}}
+                        </li> 
+                    @endif --}}
                     @endauth
                 </ul>
             </div>
