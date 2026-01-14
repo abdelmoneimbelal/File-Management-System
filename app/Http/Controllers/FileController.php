@@ -36,7 +36,7 @@ class FileController extends Controller
     {
         try {
             $request->validate([
-                'file' => 'required|file|max:10240', // 10MB max
+                'file' => 'required|file|max:40960', // 40MB max
             ]);
 
             $uploadedFile = $request->file('file');
